@@ -13,6 +13,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 50%;
   margin: 50px;
+  padding: 15px;
+  border: solid whitesmoke 3px;
 }
